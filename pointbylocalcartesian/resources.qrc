@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/point_locac_cartesian" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
